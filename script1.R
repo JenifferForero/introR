@@ -1,8 +1,8 @@
 #####################################
 #   UNIVERSIDAD SERGIO ARBOLEDA     #
 # PROGRAMA ING DE SISTEMA Y TELECO  #
-#           LEYDER PACHECO          #
-# leyder.pacheco01@correo.usa.edu.co#
+#           Jeniffer Forero         #
+# jenifferp.forero@correo.usa.edu.co#
 #       INTRODUCCION A R            #
 #####################################
 
