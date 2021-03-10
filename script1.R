@@ -1,6 +1,6 @@
 #####################################
 #   UNIVERSIDAD SERGIO ARBOLEDA     #
-# PROGRAMA ING DE SISTEMA Y TELECO  #
+# PROGRAMA ING DE SISTEMAS Y TELECO  #
 #           Jeniffer Forero         #
 # jenifferp.forero@correo.usa.edu.co#
 #       INTRODUCCION A R            #
